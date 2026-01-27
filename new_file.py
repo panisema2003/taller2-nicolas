@@ -1,1 +1,3 @@
-# Hello world
+# Author: n.salazars
+
+print("Hello, World!")
